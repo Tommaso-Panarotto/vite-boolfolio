@@ -1,5 +1,4 @@
 <script>
-import axios from "axios";
 import AppMain from "./components/AppMain.vue";
 
 export default {
@@ -15,7 +14,6 @@ export default {
 </script>
 
 <template>
-  <h1>Hello World!</h1>
   <AppMain />
 </template>
 
